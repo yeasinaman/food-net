@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.half-width-01{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left:  4%;
+    margin-top: 2%;
+}
+.half-width-01 img{
+    width: 80%;
+    height: 80%;
+    padding-left: 100px;
+}
+.meye{
+    width: 80%;
+    height: 80%;
+    padding-left: 100px;
+}
+.firstbg{
+    display: flex;
+}
+#margin-left{
+    margin-left:100px'
+}
+.flex-class{
+    display: flex;
+    background-repeat: no-repeat;
+}
+.greybg{
+    padding-top: 50px;
+    background-color: #e5e5e55b;
+    height: 500px;
+    border-radius: 20px;
+}
+.pinkbg{
+    padding-top: 50px;
+    background-color: pink;
+    height: 600px;
+    border-radius: 20px;
+}
+.half-width-02{
+    width: 15%;
+    float: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 250px;
+    margin-top: 5px;
+    position: center;    
+}
+#m1{
+    background-color: white;
+    border-radius: 15px;
+}
+#m1 img{
+    width: 260px;
+    position: center;
+}
+#m2 {
+    background-color: white;
+    border-radius: 15px;
+}
+#m2 img{
+    width: 260px;
+}
+
+#m3{
+    background-color: white;
+    border-radius: 15px;
+}
+#m3 img{
+    width: 260px;
+}
+.pb{
+    font-family: Poppins;
+    font-size: 31px;
+    text-align: center;
+}
+.notgrey{
+    padding-top: 20px;
+    width: 250;
+    height: 450px;
+    padding-left: 90px;
+    background-color: wheat;
+    margin: auto;
+    border-radius: 10px;
+    width: 90%;
+    background-position: absolute;
+
+}
+#blogsitepost1{
+
+    background-color: whitesmoke;
+    border-radius: 15px;
+    height : 320px;
+    text-align: center;
+    
+    
+}
+#blogsitepost1 img{
+    width:  290px;
+    border-radius: 10px;
+}
+#blogsitepost2{
+
+    background-color: whitesmoke;
+    border-radius: 15px;
+    height : 320px;
+    
+    
+}
+#blogsitepost2 img{
+    width:  200px;
+
+    border-radius: 10px;
+}
+#blogsitepost3{
+
+    background-color: whitesmoke;
+    border-radius: 15px;
+    height : 320px;
+    
+    
+}
+#blogsitepost3 img{
+    width:  250px;
+    border-radius: 10px;
+}
+.half-width-03{
+    width: 20%;
+    float: left;
+    
+    padding-top: 10px;
+    margin-left: 150px;
+    margin-top: 5px;
+    text-align: center;
+    position: center;   
+}
+.btn-link{
+    text-decoration: none;
+    background-image: linear-gradient(#F59B60, rgb(248, 194, 45));
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
